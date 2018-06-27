@@ -1,0 +1,28 @@
+C:\Users\Админ\Desktop\semestr 2.4\тп\Lab6_TP\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Админ\Desktop\semestr 2.4\тп\Lab6_TP\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Админ\Desktop\semestr 2.4\тп\Lab6_TP\UnitTestProject1\bin\Debug\Lab7_TP.exe
+C:\Users\Админ\Desktop\semestr 2.4\тп\Lab6_TP\UnitTestProject1\bin\Debug\Lab7_TP.pdb
+C:\Users\Админ\Desktop\semestr 2.4\тп\Lab6_TP\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Админ\Desktop\semestr 2.4\тп\Lab6_TP\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Админ\Desktop\semestr 2.4\тп\Lab6_TP\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\VAdiM\Desktop\Lab6_TP\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\VAdiM\Desktop\Lab6_TP\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\VAdiM\Desktop\Lab6_TP\UnitTestProject1\bin\Debug\Lab7_TP.exe
+C:\Users\VAdiM\Desktop\Lab6_TP\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\VAdiM\Desktop\Lab6_TP\UnitTestProject1\bin\Debug\Lab7_TP.pdb
+C:\Users\VAdiM\Desktop\Lab6_TP\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\VAdiM\Desktop\Lab6_TP\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\VAdiM\Desktop\Lab6_TP\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\VAdiM\Desktop\Lab6_TP\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Хозяин\Desktop\Lab6_TP\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Хозяин\Desktop\Lab6_TP\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Хозяин\Desktop\Lab6_TP\UnitTestProject1\bin\Debug\Lab7_TP.exe
+C:\Users\Хозяин\Desktop\Lab6_TP\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Хозяин\Desktop\Lab6_TP\UnitTestProject1\bin\Debug\Lab7_TP.pdb
+C:\Users\Хозяин\Desktop\Lab6_TP\UnitTestProject1\bin\Debug\Lab7_TP.exe.config
+C:\Users\Хозяин\Desktop\Lab6_TP\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Хозяин\Desktop\Lab6_TP\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\Хозяин\Desktop\Lab6_TP\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Хозяин\Desktop\Lab6_TP\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\Хозяин\Desktop\Lab6_TP\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Хозяин\Desktop\Lab6_TP\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

@@ -1,0 +1,12 @@
+language: csharp
+solution: Lab7_TP.sln 
+install:
+- nuget restore ./Lab6_TP/Lab7_TP.sln
+- nuget install NUnit.Runners -Version 3.7.0 -OutputDirectory testrunner
+before_script:
+  - "export DISPLAY=:99.0"
+  - "sh -e /etc/init.d/xvfb start"
+  - sleep 3
+script:
+- xbuild /p:Configuration=Release Lab6_TP/Lab7_TP.sln
+- mono ./testrunner/NUnit.ConsoleRunner.3.7.0/tools/nunit3-console.exe ./Lab6_TP/Tests2/bin/Debug/Tests2.dll
