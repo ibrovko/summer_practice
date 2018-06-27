@@ -43,3 +43,15 @@ C:\Users\Хозяин\Desktop\Lab6_TP\Lab7_TP\obj\Debug\Lab6_TP.csproj.GenerateR
 C:\Users\Хозяин\Desktop\Lab6_TP\Lab7_TP\obj\Debug\Lab6_TP.csproj.CoreCompileInputs.cache
 C:\Users\Хозяин\Desktop\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.exe
 C:\Users\Хозяин\Desktop\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.pdb
+C:\Users\Хозяин\Desktop\234293947823424\summer_practice\Lab6_TP\Lab7_TP\bin\Debug\Lab7_TP.exe.config
+C:\Users\Хозяин\Desktop\234293947823424\summer_practice\Lab6_TP\Lab7_TP\bin\Debug\Lab7_TP.exe
+C:\Users\Хозяин\Desktop\234293947823424\summer_practice\Lab6_TP\Lab7_TP\bin\Debug\Lab7_TP.pdb
+C:\Users\Хозяин\Desktop\234293947823424\summer_practice\Lab6_TP\Lab7_TP\obj\Debug\Lab6_TP.csprojAssemblyReference.cache
+C:\Users\Хозяин\Desktop\234293947823424\summer_practice\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.AuthorForm.resources
+C:\Users\Хозяин\Desktop\234293947823424\summer_practice\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.ClockForm.resources
+C:\Users\Хозяин\Desktop\234293947823424\summer_practice\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.Properties.Resources.resources
+C:\Users\Хозяин\Desktop\234293947823424\summer_practice\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.SettingsForm.resources
+C:\Users\Хозяин\Desktop\234293947823424\summer_practice\Lab6_TP\Lab7_TP\obj\Debug\Lab6_TP.csproj.GenerateResource.cache
+C:\Users\Хозяин\Desktop\234293947823424\summer_practice\Lab6_TP\Lab7_TP\obj\Debug\Lab6_TP.csproj.CoreCompileInputs.cache
+C:\Users\Хозяин\Desktop\234293947823424\summer_practice\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.exe
+C:\Users\Хозяин\Desktop\234293947823424\summer_practice\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.pdb
