@@ -8,5 +8,5 @@ before_script:
   - "sh -e /etc/init.d/xvfb start"
   - sleep 3
 script:
-- xbuild /p:Configuration=Release Lab6_TP/Lab7_TP.sln
+- xbuild /p:Configuration=Debug Lab6_TP/Lab7_TP.sln
 - mono ./testrunner/NUnit.ConsoleRunner.3.7.0/tools/nunit3-console.exe ./Lab6_TP/Tests2/bin/Debug/Tests2.dll
