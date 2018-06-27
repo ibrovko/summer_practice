@@ -1,0 +1,16 @@
+C:\Users\Kirill\source\repos\calculator_tp_lab_1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Kirill\source\repos\calculator_tp_lab_1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Kirill\source\repos\calculator_tp_lab_1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Kirill\source\repos\calculator_tp_lab_1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\calculator_tp_lab_1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Kirill\source\repos\calculator_tp_lab_1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\s.chyshkala\Desktop\calculator_tp_lab_1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\s.chyshkala\Desktop\calculator_tp_lab_1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\s.chyshkala\Desktop\calculator_tp_lab_1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\s.chyshkala\Desktop\calculator_tp_lab_1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\s.chyshkala\Desktop\calculator_tp_lab_1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\s.chyshkala\Desktop\laba_1_tp\calculator_tp_lab_1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\s.chyshkala\Desktop\laba_1_tp\calculator_tp_lab_1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\s.chyshkala\Desktop\laba_1_tp\calculator_tp_lab_1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\s.chyshkala\Desktop\laba_1_tp\calculator_tp_lab_1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\s.chyshkala\Desktop\laba_1_tp\calculator_tp_lab_1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

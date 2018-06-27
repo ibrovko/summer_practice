@@ -1,0 +1,11 @@
+C:\Users\s.chyshkala\Desktop\calculator_tp_lab_1\CalcTests\bin\Release\CalcTests.dll
+C:\Users\s.chyshkala\Desktop\calculator_tp_lab_1\CalcTests\bin\Release\CalcTests.pdb
+C:\Users\s.chyshkala\Desktop\calculator_tp_lab_1\CalcTests\bin\Release\calculator_tp_lab_1.exe
+C:\Users\s.chyshkala\Desktop\calculator_tp_lab_1\CalcTests\bin\Release\ClassLibrary1.dll
+C:\Users\s.chyshkala\Desktop\calculator_tp_lab_1\CalcTests\bin\Release\nunit.framework.dll
+C:\Users\s.chyshkala\Desktop\calculator_tp_lab_1\CalcTests\bin\Release\calculator_tp_lab_1.pdb
+C:\Users\s.chyshkala\Desktop\calculator_tp_lab_1\CalcTests\bin\Release\ClassLibrary1.pdb
+C:\Users\s.chyshkala\Desktop\calculator_tp_lab_1\CalcTests\bin\Release\nunit.framework.xml
+C:\Users\s.chyshkala\Desktop\calculator_tp_lab_1\CalcTests\obj\Release\CalcTests.csprojResolveAssemblyReference.cache
+C:\Users\s.chyshkala\Desktop\calculator_tp_lab_1\CalcTests\obj\Release\CalcTests.dll
+C:\Users\s.chyshkala\Desktop\calculator_tp_lab_1\CalcTests\obj\Release\CalcTests.pdb

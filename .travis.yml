@@ -1,0 +1,12 @@
+language: csharp
+solution: calculator_tp_lab_1.sln
+install:
+- nuget restore ./calculator_tp_lab_1/calculator_tp_lab_1.sln
+- nuget install NUnit.Runners -Version 3.7.0 -OutputDirectory testrunner
+before_script:
+  - "export DISPLAY=:99.0"
+  - "sh -e /etc/init.d/xvfb start"
+  - sleep 3
+script:
+- xbuild /p:Configuration=Release calculator_tp_lab_1/calculator_tp_lab_1.sln
+- mono ./testrunner/NUnit.ConsoleRunner.3.7.0/tools/nunit3-console.exe ./calculator_tp_lab_1/CalcTests/bin/Release/CalcTests.dll
