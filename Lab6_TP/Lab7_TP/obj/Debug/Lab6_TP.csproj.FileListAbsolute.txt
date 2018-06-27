@@ -1,0 +1,45 @@
+C:\Users\Админ\Documents\Visual Studio 2013\Projects\rubanlab13\Lab7_TP\Lab7_TP\obj\Debug\Lab6_TP.csprojResolveAssemblyReference.cache
+C:\Users\Админ\Documents\Visual Studio 2013\Projects\rubanlab13\Lab7_TP\Lab7_TP\obj\Debug\Lab7_TP.AuthorForm.resources
+C:\Users\Админ\Documents\Visual Studio 2013\Projects\rubanlab13\Lab7_TP\Lab7_TP\obj\Debug\Lab7_TP.ClockForm.resources
+C:\Users\Админ\Documents\Visual Studio 2013\Projects\rubanlab13\Lab7_TP\Lab7_TP\obj\Debug\Lab7_TP.Properties.Resources.resources
+C:\Users\Админ\Documents\Visual Studio 2013\Projects\rubanlab13\Lab7_TP\Lab7_TP\obj\Debug\Lab7_TP.SettingsForm.resources
+C:\Users\Админ\Documents\Visual Studio 2013\Projects\rubanlab13\Lab7_TP\Lab7_TP\obj\Debug\Lab6_TP.csproj.GenerateResource.Cache
+C:\Users\Админ\Documents\Visual Studio 2013\Projects\rubanlab13\Lab7_TP\Lab7_TP\bin\Debug\Lab7_TP.exe.config
+C:\Users\Админ\Documents\Visual Studio 2013\Projects\rubanlab13\Lab7_TP\Lab7_TP\bin\Debug\Lab7_TP.exe
+C:\Users\Админ\Documents\Visual Studio 2013\Projects\rubanlab13\Lab7_TP\Lab7_TP\bin\Debug\Lab7_TP.pdb
+C:\Users\Админ\Documents\Visual Studio 2013\Projects\rubanlab13\Lab7_TP\Lab7_TP\obj\Debug\Lab7_TP.exe
+C:\Users\Админ\Documents\Visual Studio 2013\Projects\rubanlab13\Lab7_TP\Lab7_TP\obj\Debug\Lab7_TP.pdb
+C:\Users\Админ\Desktop\semestr 2.4\тп\Lab6_TP\Lab7_TP\bin\Debug\Lab7_TP.exe.config
+C:\Users\Админ\Desktop\semestr 2.4\тп\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.exe
+C:\Users\Админ\Desktop\semestr 2.4\тп\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.pdb
+C:\Users\Админ\Desktop\semestr 2.4\тп\Lab6_TP\Lab7_TP\bin\Debug\Lab7_TP.exe
+C:\Users\Админ\Desktop\semestr 2.4\тп\Lab6_TP\Lab7_TP\bin\Debug\Lab7_TP.pdb
+C:\Users\Админ\Desktop\semestr 2.4\тп\Lab6_TP\Lab7_TP\obj\Debug\Lab6_TP.csprojResolveAssemblyReference.cache
+C:\Users\Админ\Desktop\semestr 2.4\тп\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.AuthorForm.resources
+C:\Users\Админ\Desktop\semestr 2.4\тп\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.ClockForm.resources
+C:\Users\Админ\Desktop\semestr 2.4\тп\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.Properties.Resources.resources
+C:\Users\Админ\Desktop\semestr 2.4\тп\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.SettingsForm.resources
+C:\Users\Админ\Desktop\semestr 2.4\тп\Lab6_TP\Lab7_TP\obj\Debug\Lab6_TP.csproj.GenerateResource.Cache
+C:\Users\VAdiM\Desktop\Lab6_TP\Lab7_TP\bin\Debug\Lab7_TP.exe.config
+C:\Users\VAdiM\Desktop\Lab6_TP\Lab7_TP\bin\Debug\Lab7_TP.exe
+C:\Users\VAdiM\Desktop\Lab6_TP\Lab7_TP\bin\Debug\Lab7_TP.pdb
+C:\Users\VAdiM\Desktop\Lab6_TP\Lab7_TP\obj\Debug\Lab6_TP.csprojResolveAssemblyReference.cache
+C:\Users\VAdiM\Desktop\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.AuthorForm.resources
+C:\Users\VAdiM\Desktop\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.ClockForm.resources
+C:\Users\VAdiM\Desktop\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.Properties.Resources.resources
+C:\Users\VAdiM\Desktop\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.SettingsForm.resources
+C:\Users\VAdiM\Desktop\Lab6_TP\Lab7_TP\obj\Debug\Lab6_TP.csproj.GenerateResource.Cache
+C:\Users\VAdiM\Desktop\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.exe
+C:\Users\VAdiM\Desktop\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.pdb
+C:\Users\Хозяин\Desktop\Lab6_TP\Lab7_TP\bin\Debug\Lab7_TP.exe.config
+C:\Users\Хозяин\Desktop\Lab6_TP\Lab7_TP\bin\Debug\Lab7_TP.exe
+C:\Users\Хозяин\Desktop\Lab6_TP\Lab7_TP\bin\Debug\Lab7_TP.pdb
+C:\Users\Хозяин\Desktop\Lab6_TP\Lab7_TP\obj\Debug\Lab6_TP.csprojAssemblyReference.cache
+C:\Users\Хозяин\Desktop\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.AuthorForm.resources
+C:\Users\Хозяин\Desktop\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.ClockForm.resources
+C:\Users\Хозяин\Desktop\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.Properties.Resources.resources
+C:\Users\Хозяин\Desktop\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.SettingsForm.resources
+C:\Users\Хозяин\Desktop\Lab6_TP\Lab7_TP\obj\Debug\Lab6_TP.csproj.GenerateResource.cache
+C:\Users\Хозяин\Desktop\Lab6_TP\Lab7_TP\obj\Debug\Lab6_TP.csproj.CoreCompileInputs.cache
+C:\Users\Хозяин\Desktop\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.exe
+C:\Users\Хозяин\Desktop\Lab6_TP\Lab7_TP\obj\Debug\Lab7_TP.pdb
