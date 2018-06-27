@@ -41,32 +41,5 @@ namespace Tests2
             float mintest = calc.Min(Minute, PI);
             Assert.That(MinRadExpected, Is.EqualTo(mintest));
         }
-        [Test]
-        public void Test4()
-        {
-            Calculations calc = new Calculations();
-            int Minute = 21;
-            float MinRadExpected = 2.19911504F;
-            float mintest = calc.Min(Minute, PI);
-            Assert.That(MinRadExpected, Is.EqualTo(mintest));
-        }
-        [Test]
-        public void Test5()
-        {
-            Calculations calc = new Calculations();
-            int Second = 25;
-            float SecRadExpected = 2.61799407F;
-            float sectest = calc.Sec(Second, PI);
-            Assert.That(SecRadExpected, Is.EqualTo(sectest));
-        }
-        [Test]
-        public void Test6()
-        {
-            Calculations calc = new Calculations();
-            int Second = 0;
-            float SecRadExpected = 0F;
-            float sectest = calc.Sec(Second, PI);
-            Assert.That(SecRadExpected, Is.EqualTo(sectest));
-        }
     }
 }
