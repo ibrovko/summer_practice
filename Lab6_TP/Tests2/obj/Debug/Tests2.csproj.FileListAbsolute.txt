@@ -1,0 +1,12 @@
+C:\Users\Хозяин\Desktop\Lab6_TP\Tests2\bin\Debug\Tests2.dll
+C:\Users\Хозяин\Desktop\Lab6_TP\Tests2\bin\Debug\Tests2.pdb
+C:\Users\Хозяин\Desktop\Lab6_TP\Tests2\bin\Debug\Lab7_TP.exe
+C:\Users\Хозяин\Desktop\Lab6_TP\Tests2\bin\Debug\nunit.framework.dll
+C:\Users\Хозяин\Desktop\Lab6_TP\Tests2\bin\Debug\Lab7_TP.pdb
+C:\Users\Хозяин\Desktop\Lab6_TP\Tests2\bin\Debug\Lab7_TP.exe.config
+C:\Users\Хозяин\Desktop\Lab6_TP\Tests2\bin\Debug\nunit.framework.xml
+C:\Users\Хозяин\Desktop\Lab6_TP\Tests2\obj\Debug\Tests2.csprojAssemblyReference.cache
+C:\Users\Хозяин\Desktop\Lab6_TP\Tests2\obj\Debug\Tests2.csproj.CoreCompileInputs.cache
+C:\Users\Хозяин\Desktop\Lab6_TP\Tests2\obj\Debug\Tests2.csproj.CopyComplete
+C:\Users\Хозяин\Desktop\Lab6_TP\Tests2\obj\Debug\Tests2.dll
+C:\Users\Хозяин\Desktop\Lab6_TP\Tests2\obj\Debug\Tests2.pdb
