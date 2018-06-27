@@ -1,0 +1,25 @@
+C:\Users\VAdiM\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\bin\Release\TP_WF_lab5.exe.config
+C:\Users\VAdiM\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\bin\Release\TP_WF_lab5.exe
+C:\Users\VAdiM\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\bin\Release\TP_WF_lab5.pdb
+C:\Users\VAdiM\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\obj\Release\TP_WF_lab5.csprojResolveAssemblyReference.cache
+C:\Users\VAdiM\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\obj\Release\TP_WF_lab5.Form1.resources
+C:\Users\VAdiM\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\obj\Release\TP_WF_lab5.Form2.resources
+C:\Users\VAdiM\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\obj\Release\TP_WF_lab5.Form3.resources
+C:\Users\VAdiM\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\obj\Release\TP_WF_lab5.Form4.resources
+C:\Users\VAdiM\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\obj\Release\TP_WF_lab5.Properties.Resources.resources
+C:\Users\VAdiM\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\obj\Release\TP_WF_lab5.csproj.GenerateResource.Cache
+C:\Users\VAdiM\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\obj\Release\TP_WF_lab5.exe
+C:\Users\VAdiM\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\obj\Release\TP_WF_lab5.pdb
+C:\Users\Хозяин\Desktop\TP_WF_lab5\TP_WF_lab5\bin\Release\TP_WF_lab5.exe.config
+C:\Users\Хозяин\Desktop\TP_WF_lab5\TP_WF_lab5\bin\Release\TP_WF_lab5.exe
+C:\Users\Хозяин\Desktop\TP_WF_lab5\TP_WF_lab5\bin\Release\TP_WF_lab5.pdb
+C:\Users\Хозяин\Desktop\TP_WF_lab5\TP_WF_lab5\obj\Release\TP_WF_lab5.Form1.resources
+C:\Users\Хозяин\Desktop\TP_WF_lab5\TP_WF_lab5\obj\Release\TP_WF_lab5.Form2.resources
+C:\Users\Хозяин\Desktop\TP_WF_lab5\TP_WF_lab5\obj\Release\TP_WF_lab5.Form3.resources
+C:\Users\Хозяин\Desktop\TP_WF_lab5\TP_WF_lab5\obj\Release\TP_WF_lab5.Form4.resources
+C:\Users\Хозяин\Desktop\TP_WF_lab5\TP_WF_lab5\obj\Release\TP_WF_lab5.Properties.Resources.resources
+C:\Users\Хозяин\Desktop\TP_WF_lab5\TP_WF_lab5\obj\Release\TP_WF_lab5.csproj.GenerateResource.cache
+C:\Users\Хозяин\Desktop\TP_WF_lab5\TP_WF_lab5\obj\Release\TP_WF_lab5.csproj.CoreCompileInputs.cache
+C:\Users\Хозяин\Desktop\TP_WF_lab5\TP_WF_lab5\obj\Release\TP_WF_lab5.exe
+C:\Users\Хозяин\Desktop\TP_WF_lab5\TP_WF_lab5\obj\Release\TP_WF_lab5.pdb
+C:\Users\Хозяин\Desktop\TP_WF_lab5\TP_WF_lab5\obj\Release\TP_WF_lab5.csprojAssemblyReference.cache

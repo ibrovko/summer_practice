@@ -1,0 +1,12 @@
+C:\Users\Хозяин\Desktop\TP_WF_lab5\Tests\obj\Release\Tests.csprojAssemblyReference.cache
+C:\Users\Хозяин\Desktop\TP_WF_lab5\Tests\obj\Release\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Хозяин\Desktop\TP_WF_lab5\Tests\bin\Release\Tests.dll
+C:\Users\Хозяин\Desktop\TP_WF_lab5\Tests\bin\Release\Tests.pdb
+C:\Users\Хозяин\Desktop\TP_WF_lab5\Tests\bin\Release\nunit.framework.dll
+C:\Users\Хозяин\Desktop\TP_WF_lab5\Tests\bin\Release\TP_WF_lab5.exe
+C:\Users\Хозяин\Desktop\TP_WF_lab5\Tests\bin\Release\TP_WF_lab5.pdb
+C:\Users\Хозяин\Desktop\TP_WF_lab5\Tests\bin\Release\TP_WF_lab5.exe.config
+C:\Users\Хозяин\Desktop\TP_WF_lab5\Tests\bin\Release\nunit.framework.xml
+C:\Users\Хозяин\Desktop\TP_WF_lab5\Tests\obj\Release\Tests.csproj.CopyComplete
+C:\Users\Хозяин\Desktop\TP_WF_lab5\Tests\obj\Release\Tests.dll
+C:\Users\Хозяин\Desktop\TP_WF_lab5\Tests\obj\Release\Tests.pdb

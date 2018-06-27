@@ -1,0 +1,12 @@
+c:\users\vadim\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\bin\Debug\TP_WF_lab5.exe.config
+c:\users\vadim\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\bin\Debug\TP_WF_lab5.exe
+c:\users\vadim\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\bin\Debug\TP_WF_lab5.pdb
+c:\users\vadim\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\obj\Debug\TP_WF_lab5.csprojResolveAssemblyReference.cache
+c:\users\vadim\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\obj\Debug\TP_WF_lab5.Form1.resources
+c:\users\vadim\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\obj\Debug\TP_WF_lab5.Properties.Resources.resources
+c:\users\vadim\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\obj\Debug\TP_WF_lab5.csproj.GenerateResource.Cache
+c:\users\vadim\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\obj\Debug\TP_WF_lab5.exe
+c:\users\vadim\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\obj\Debug\TP_WF_lab5.pdb
+C:\Users\VAdiM\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\obj\Debug\TP_WF_lab5.Form2.resources
+C:\Users\VAdiM\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\obj\Debug\TP_WF_lab5.Form3.resources
+C:\Users\VAdiM\documents\visual studio 2015\Projects\TP_WF_lab5\TP_WF_lab5\obj\Debug\TP_WF_lab5.Form4.resources
